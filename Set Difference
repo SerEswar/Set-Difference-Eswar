@@ -1,0 +1,7 @@
+e={0,2,4,6,8}
+n={1,2,3,4,5}
+U_set=e|n
+print("the union of e and n is",U_set)
+print("the intersection of e and n is",e&n)
+print("the difference of e and n is",e-n)
+print("the symmetric difference od e and n is",e^n)
